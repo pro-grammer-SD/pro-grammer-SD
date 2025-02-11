@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm a guy learning programming to effectively improve the world thorugh digital ways. 🎉
+# I'm a guy learning programming to effectively improve the world through digital ways. 🎉
 
 - 🔭 I’m currently working on ... (no topics on my mind but I will make soon)
 - 🌱 I’m currently learning ... Python and a lot more... (check out my bio)
