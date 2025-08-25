@@ -1,5 +1,5 @@
 <h1 align="center">🌌 Yo, I'm Soumalya</h1>
-<h3 align="center">🐍 Python Fan | 🦀 Rust Rookie | 🏏 Huge Cricket Fan | 💻 Terminal Aesthetic | 🗃️ Project Loading...</h3>
+<h3 align="center">🐍 Python Fan | 🦀 Rust Learner | 🏏 Huge Cricket Fan | 💻 Terminal Aesthetic | 🗃️ Project Loading...</h3>
 
 <p align="center">
   <img src="https://media.tenor.com/rzA_NJ6fFkcAAAAC/code-coding.gif" width="300" alt="Coding gif">
@@ -41,9 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-grammer-sd&layout=compact&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="progress loading"/>
-</p>
+*😭*
 
 ---
 
