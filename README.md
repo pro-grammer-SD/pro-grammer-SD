@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats & PRs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pro-grammer-sd&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-grammer-sd&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pro-grammer-SD&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-grammer-SD&layout=compact&theme=radical" width="48%" />
 </p>
 
 *😭*
@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pro-grammer-sd&theme=gruvbox&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pro-grammer-SD&theme=gruvbox&margin-w=10&no-frame=true" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pro-grammer-sd&label=🚀+Universe+Visits&style=for-the-badge&color=ff69b4" alt="Soumalya's profile views badge"/>
+  <img src="https://komarev.com/ghpvc/?username=pro-grammer-SD&label=🚀+Universe+Visits&style=for-the-badge&color=ff69b4" alt="Soumalya's profile views badge"/>
 </p>
 
 ---
