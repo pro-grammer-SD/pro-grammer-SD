@@ -37,10 +37,9 @@
 
 ## 📊 GitHub Stats & PRs
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=pro-grammer-SD&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pro-grammer-SD&layout=compact&theme=radical" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pro-grammer-SD&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pro-grammer-SD&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pro-grammer-SD&layout=compact&theme=radical)
 
 ---
 
