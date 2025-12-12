@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pro-grammer-SD&theme=gruvbox&margin-w=10&no-frame=true" />
+  <img src="https://github-trophies.vercel.app/?username=pro-grammer-SD" />
 </p>
 
 ---
