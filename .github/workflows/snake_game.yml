@@ -1,0 +1,29 @@
+# .github/workflows/generate-snake.yml
+
+name: Generate GitHub-Snake SVG
+
+on:
+  schedule:
+    # Run every day at midnight (UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    # Allows manual triggering from the GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        # You need to check out your repo so the action can commit the generated files
+        uses: actions/checkout@v4
+
+      - name: Generate the snake
+        # This is where your provided code snippet goes
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+            
