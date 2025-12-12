@@ -1,22 +1,23 @@
-<h1 align="center">🌌 Yo, I'm Soumalya</h1>
-<h3 align="center">🐍 Python Fan | 🦀 Rust Learner | 🏏 Huge Cricket Fan | 💻 Terminal Aesthetic | 🗃️ Project Loading...</h3>
+<h1 align="center">🌌 Greetings, I'm Soumalya</h1>
+<h3 align="center">🐍 Python Enthusiast | 🦀 Rust Learner | 🏏 Cricket Addict | 💻 Terminal Lover | 🗃️ Projects Loading...</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/rzA_NJ6fFkcAAAAC/code-coding.gif" width="300" alt="Coding gif">
+  <img src="https://media.tenor.com/rzA_NJ6fFkcAAAAC/code-coding.gif" width="300" alt="Coding in action">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 Learning Python & Rust like a wizard  
-- 🧩 Building cool stuff soon™  
-- 💻 Terminal > GUI any day  
-- 🎮 Gamer + Coder = Danger  
-- ⚡ Hacker vibes only
+- 🧠 Exploring Python & Rust with a curious mind  
+- 🧩 Crafting innovative projects soon™  
+- 💻 Terminal-first mindset  
+- 🎮 Gamer & coder: a dangerous combo  
+- ⚡ Embracing hacker vibes
+- 🏌️ Favourite player = 💜 Mitchell Starc
 
 <p align="center">
-  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvfof63rka91kv0zwmwoo.gif" width="400" alt="animated terminal"/>
+  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvfof63rka91kv0zwmwoo.gif" width="400" alt="Animated terminal"/>
 </p>
 
 ---
@@ -37,11 +38,9 @@
 ## 📊 GitHub Stats & PRs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pro-grammer-SD&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-grammer-SD&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pro-grammer-SD&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pro-grammer-SD&layout=compact&theme=radical" width="48%" />
 </p>
-
-*😭*
 
 ---
 
@@ -73,5 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/oR2X1xIjYy4AAAAC/hacking.gif" width="200" alt="Hacker gif">
+  <img src="https://media.tenor.com/oR2X1xIjYy4AAAAC/hacking.gif" width="200" alt="Hacker vibes">
 </p>
