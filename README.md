@@ -22,6 +22,11 @@
 
 ---
 
+# 🔥 The Custom ROM I use everyday:
+![LineageOS](https://img.shields.io/badge/LineageOS-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
