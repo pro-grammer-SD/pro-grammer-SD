@@ -1,81 +1,53 @@
-<h1 align="center">🌌 Greetings, I'm Soumalya</h1>
-<h3 align="center">🐍 Python Enthusiast | 🦀 Rust Learner | 🏏 Cricket Addict | 💻 Terminal Lover | 🗃️ Projects Loading...</h3>
+<h1 align="center">🌌 Soumalya</h1>
+<h3 align="center">🐍 Python Enthusiast | 🦀 Rust Learner | 🏏 Cricket Lover | 💻 Terminal Expert</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/rzA_NJ6fFkcAAAAC/code-coding.gif" width="300" alt="Coding in action">
+  <img src="https://media.tenor.com/rzA_NJ6fFkcAAAAC/code-coding.gif" width="300">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-- 🧠 Exploring Python & Rust with a curious mind  
-- 🧩 Crafting innovative projects soon™  
-- 💻 Terminal-first mindset  
-- 🎮 Gamer & coder: a dangerous combo  
-- ⚡ Embracing hacker vibes
-- 🏌️ Favourite player = 💜 Mitchell Starc
+* 🧠 Advanced Python & Rust developer
+* 🌟 Interested in vibe coding
+* 💻 Terminal-first workflows
+* 🎮 Gamer + coder
+* 💜 Admirer of Mitchell Starc
+
+---
+
+## 🔥 Daily Operating System
+
+![Custom ROM](https://img.shields.io/badge/Custom_ROM-167C80?style=for-the-badge\&logo=android\&logoColor=white)
+
+---
+
+## 🛠️ Technical Expertise
 
 <p align="center">
-  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvfof63rka91kv0zwmwoo.gif" width="400" alt="Animated terminal"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-%23f43059?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge">
 </p>
 
 ---
 
-# 🔥 The Custom ROM I use everyday:
-![LineageOS](https://img.shields.io/badge/LineageOS-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
+## 📊 GitHub Profile
+
+![📈 Statistics](https://github-readme-stats-fast.vercel.app/api?username=pro-grammer-SD\&show_icons=true\&theme=radical)
+![🔥 Contribution Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pro-grammer-SD\&theme=radical)
 
 ---
 
-## 🛠️ Tech Stack
+## 💌 Contact
+
+<p align="center">📧 geniussantu1983@gmail.com | 🤝 Professional inquiries welcomed</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/CSS-%23f43059?style=for-the-badge&logo=css3&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glow" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=react&logoColor=white" />
-</p> 
----
-
-## 📊 GitHub Stats & PRs
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pro-grammer-SD&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pro-grammer-SD&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pro-grammer-SD&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=pro-grammer-SD" />
-</p>
-
----
-
-![snake gif](https://github.com/pro-grammer-SD/pro-grammer-SD/blob/output/ocean.gif)
-
-## 💌 Reach Out
-
-<p align="center">
-  📧 geniussantu1983@gmail.com  
-  DM me ideas, bugs, or just say hi 👋
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pro-grammer-SD&label=🚀+Universe+Visits&style=for-the-badge&color=ff69b4" alt="Soumalya's profile views badge"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/oR2X1xIjYy4AAAAC/hacking.gif" width="200" alt="Hacker vibes">
+  <img src="https://github.com/pro-grammer-SD/pro-grammer-SD/blob/output/ocean.gif" width="600">
 </p>
