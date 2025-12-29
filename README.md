@@ -19,7 +19,7 @@
 
 ## 🔥 Daily Operating System
 
-![Custom ROM](https://img.shields.io/badge/Custom_ROM-167C80?style=for-the-badge\&logo=android\&logoColor=white)
+<img src="https://img.shields.io/badge/LineageOS-167C80?style=for-the-badge&logo=lineageos&logoColor=white" alt="LineageOS Badge">
 
 ---
 
@@ -41,13 +41,12 @@
 
 ![📈 Statistics](https://github-readme-stats-fast.vercel.app/api?username=pro-grammer-SD\&show_icons=true\&theme=radical)
 ![🔥 Contribution Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pro-grammer-SD\&theme=radical)
+<p align="center">
+  <img src="https://github.com/pro-grammer-SD/pro-grammer-SD/blob/output/ocean.gif" width="100%">
+</p>
 
 ---
 
 ## 💌 Contact
 
 <p align="center">📧 geniussantu1983@gmail.com | 🤝 Professional inquiries welcomed</p>
-
-<p align="center">
-  <img src="https://github.com/pro-grammer-SD/pro-grammer-SD/blob/output/ocean.gif" width="600">
-</p>
