@@ -17,9 +17,10 @@
 
 ---
 
-## 🔥 Daily Operating System
+## 🔥 Daily Operating Systems
 
-<img src="https://img.shields.io/badge/LineageOS-167C80?style=for-the-badge&logo=lineageos&logoColor=white" alt="LineageOS Badge">
+<img src="https://img.shields.io/badge/LineageOS-167C80?style=for-the-badge&logo=lineageos&logoColor=white" alt="LineageOS">
+<img src="https://raw.githubusercontent.com/basecamp/omarchy/master/logo.svg" alt="Omarchy" width="100" height="100">
 
 ---
 
