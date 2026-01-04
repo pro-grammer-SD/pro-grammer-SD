@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Soumalya</h1>
+<h1 align="center">🌌 S̶o͌u͖̔ͯ͂̏m̸̽ă̼̬l̻̤̪̽͑̾͜yaͨ_ͣ͝ͅ</h1>
 <h3 align="center">🐍 Python Enthusiast | 🦀 Rust Learner | 🏏 Cricket Lover | 💻 Terminal Expert</h3>
 
 <p align="center">
