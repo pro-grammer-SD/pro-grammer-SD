@@ -1,4 +1,4 @@
-<h1 align="center">🌌 S̶o͌u͖̔ͯ͂̏m̸̽ă̼̬l̻̤̪̽͑̾͜yaͨ_ͣ͝ͅ</h1>
+<h1 align="center">🌌 Soumalya ✨</h1>
 <h3 align="center">🐍 Python Enthusiast | 🦀 Rust Learner | 🏏 Cricket Lover | 💻 Terminal Expert</h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🔥 Daily Operating Systems
 
-<img src="https://img.shields.io/badge/LineageOS-167C80?style=for-the-badge&logo=lineageos&logoColor=white" alt="LineageOS">
+<img src="https://avatars.githubusercontent.com/u/71037289?s=200&v=4" alt="DerpFest Owl" width="100" height="100">
 <img src="https://raw.githubusercontent.com/basecamp/omarchy/master/logo.svg" alt="Omarchy" width="100" height="100">
 
 ---
