@@ -244,11 +244,9 @@ The binding is built with [PyO3](https://pyo3.rs/) and distributed as binary whe
 <br/><br/>
 
 <!-- Snake Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pro-grammer-SD/pro-grammer-SD/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pro-grammer-SD/pro-grammer-SD/blob/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/pro-grammer-SD/pro-grammer-SD/blob/output/ocean.gif" width="100%" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pro-grammer-SD/pro-grammer-SD/output/ocean.gif" alt="GitHub Contribution Snake" width="100%">
+</p>
 
 </div>
 
