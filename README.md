@@ -140,7 +140,9 @@ When I'm away from the keyboard, you'll usually find me following **cricket** â€
 &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 &nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+&nbsp;
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
 &nbsp;
 ![Manim](https://img.shields.io/badge/Manim-4A4A8A?style=flat-square&logo=python&logoColor=white)
 &nbsp;
@@ -152,7 +154,7 @@ When I'm away from the keyboard, you'll usually find me following **cricket** â€
 
 **EfficientManim** is a node-based visual editor for creating mathematical animations with [Manim](https://www.manim.community/). Instead of editing scripts and re-running the renderer to check results, you build animations by connecting nodes in a visual graph â€” linking scenes, objects, and transformations while watching things update in real time. The full Python animation model stays intact underneath; the editor just gives you a more immediate way to work with it.
 
-Built with [Streamlit](https://streamlit.io/), the setup stays simple and the interface runs directly in a browser â€” no custom GUI framework, no complex installation.
+Built with **Qt (PySide6)**, the interface is designed to feel like a proper desktop IDE while keeping the setup lightweight and developer-friendly..
 
 **Key Features:**
 
