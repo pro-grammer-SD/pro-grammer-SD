@@ -97,16 +97,9 @@ When I'm away from the keyboard, you'll usually find me following **cricket** �
 </p>
 
 ### 🖥️ Operating Systems
-
-<p align="left">
-  <a href="https://github.com/DerpFest-AOSP">
-    <img src="https://avatars.githubusercontent.com/u/71037289?s=200&v=4" alt="DerpFest" width="48" height="48" style="border-radius:8px; margin-right:8px;" title="DerpFest AOSP"/>
-  </a>
-  <a href="https://github.com/basecamp/omarchy">
-    <img src="https://raw.githubusercontent.com/basecamp/omarchy/master/logo.svg" alt="Omarchy" width="48" height="48" style="border-radius:8px;" title="Omarchy"/>
-  </a>
-  &nbsp; <b>DerpFest AOSP</b> &nbsp;|&nbsp; <b>Omarchy Linux</b>
-</p>
+- Windows 11
+- Android (PixelOS GSI)
+- Omarchy + ML4W
 
 ### 🧠 Areas of Focus
 
