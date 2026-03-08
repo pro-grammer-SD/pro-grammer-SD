@@ -129,19 +129,13 @@ When I'm away from the keyboard, you'll usually find me following **cricket** �
 
 ### ⚡ EfficientManim — *A Node-Based Visual Editor for Manim*
 
-[![GitHub](https://img.shields.io/badge/GitHub-pro--grammer--SD%2FEfficientManim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pro-grammer-SD/EfficientManim)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-&nbsp;
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-&nbsp;
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
-&nbsp;
-![Manim](https://img.shields.io/badge/Manim-4A4A8A?style=flat-square&logo=python&logoColor=white)
-&nbsp;
-[![License](https://img.shields.io/github/license/pro-grammer-SD/EfficientManim?style=flat-square)](https://github.com/pro-grammer-SD/EfficientManim/blob/main/LICENSE)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/pro-grammer-SD/EfficientManim?style=flat-square&color=f1c40f)](https://github.com/pro-grammer-SD/EfficientManim/stargazers)
+[![GitHub](https://img.shields.io/badge/GitHub-pro--grammer--SD%2FEfficientManim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pro-grammer-SD/EfficientManim)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Manim](https://img.shields.io/badge/Manim-4A4A8A?style=for-the-badge&logo=python&logoColor=white)
+[![License](https://img.shields.io/github/license/pro-grammer-SD/EfficientManim?style=for-the-badge)](https://github.com/pro-grammer-SD/EfficientManim/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/pro-grammer-SD/EfficientManim?style=for-the-badge&color=f1c40f)](https://github.com/pro-grammer-SD/EfficientManim/stargazers)
 
 > A visual IDE that makes building Manim animations feel more like composing a scene and less like debugging a render loop.
 
@@ -175,18 +169,13 @@ Built with **Qt (PySide6)**, the interface is designed to feel like a proper des
 
 ### 🖥️ pyratatui — *Ratatui's TUI Engine, Accessible from Python*
 
-[![GitHub](https://img.shields.io/badge/GitHub-pyratatui%2Fpyratatui-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pyratatui/pyratatui)
-&nbsp;
-[![PyPI](https://img.shields.io/pypi/v/pyratatui?style=flat-square&logo=pypi&color=3775A9)](https://pypi.org/project/pyratatui/)
-&nbsp;
-[![Downloads](https://pypistats.org/api/packages/pyratatui/badge/month)](https://pypistats.org/packages/pyratatui)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-&nbsp;
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-&nbsp;
-[![License](https://img.shields.io/github/license/pyratatui/pyratatui?style=flat-square)](https://github.com/pyratatui/pyratatui/blob/main/LICENSE)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/pyratatui/pyratatui?style=flat-square&color=f1c40f)](https://github.com/pyratatui/pyratatui/stargazers)
+[![GitHub](https://img.shields.io/badge/GitHub-pyratatui%2Fpyratatui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pyratatui/pyratatui)
+[![PyPI](https://img.shields.io/pypi/v/pyratatui?style=for-the-badge&logo=pypi&color=3775A9)](https://pypi.org/project/pyratatui/)
+![Downloads](https://img.shields.io/pypi/dd/pyratatui?style=for-the-badge&logo=python&label=downloads)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+[![License](https://img.shields.io/github/license/pyratatui/pyratatui?style=for-the-badge)](https://github.com/pyratatui/pyratatui/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/pyratatui/pyratatui?style=for-the-badge&color=f1c40f)](https://github.com/pyratatui/pyratatui/stargazers)
 
 > Rust-quality terminal UIs, authored entirely in Python.
 
