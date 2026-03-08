@@ -179,8 +179,7 @@ Built with **Qt (PySide6)**, the interface is designed to feel like a proper des
 &nbsp;
 [![PyPI](https://img.shields.io/pypi/v/pyratatui?style=flat-square&logo=pypi&color=3775A9)](https://pypi.org/project/pyratatui/)
 &nbsp;
-[![Downloads](https://img.shields.io/pypi/dm/pyratatui?style=flat-square&color=2ecc71&label=Downloads%2FMonth)](https://pypi.org/project/pyratatui/)
-&nbsp;
+[![Downloads](https://pypistats.org/api/packages/pyratatui/badge/month)](https://pypistats.org/packages/pyratatui)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 &nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
