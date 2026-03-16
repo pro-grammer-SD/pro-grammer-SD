@@ -13,6 +13,8 @@
 
 <br/>
 
+[![IdeaCred](https://ideacred.com/api/badge/pro-grammer-SD?style=for-the-badge)](https://ideacred.com/profile/pro-grammer-SD)
+
 <!-- Social + Profile Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-pro--grammer--SD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pro-grammer-SD)
 [![PyPI](https://img.shields.io/badge/PyPI-Author-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/pro-grammer-SD/)
