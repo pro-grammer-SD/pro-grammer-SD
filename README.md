@@ -107,9 +107,9 @@ When I'm away from the keyboard, you'll usually find me following **cricket** �
 </p>
 
 ### 🖥️ Operating Systems
-- Windows 11
-- Android (DerpFest GSI)
-- Omarchy + ML4W
+- ✨ Windows 11
+- 💪 Android (DerpFest GSI)
+- 🚀 CachyOS + ML4W
 
 ### 🧠 Areas of Focus
 
