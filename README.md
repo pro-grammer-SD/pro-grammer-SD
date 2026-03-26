@@ -355,7 +355,7 @@ The binding is built with [PyO3](https://pyo3.rs/) and distributed as binary whe
 ```python
 class Soumalya:
     location     = "India 🇮🇳"
-    os_of_choice = ["DerpFest AOSP", "Omarchy Linux"]
+    os_of_choice = ["DerpFest AOSP", "CachyOS"]
     editor       = "Neovim (yes, really)"
     shell        = "zsh + dotfiles that took too long to configure"
     terminal     = "kitty / ghostty"
