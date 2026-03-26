@@ -13,13 +13,13 @@
 
 <br/>
 
-[![IdeaCred](https://ideacred.com/api/badge/programmersd?style=for-the-badge)](https://ideacred.com/profile/programmersd)
+[![IdeaCred](https://ideacred.com/api/badge/programmersd21?style=for-the-badge)](https://ideacred.com/profile/programmersd21)
 
 <!-- Social + Profile Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-pro--grammer--SD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmersd)
-[![PyPI](https://img.shields.io/badge/PyPI-Author-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/programmersd/)
-[![Profile Views](https://komarev.com/ghpvc/?username=programmersd&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/programmersd)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Contributor-orange?style=for-the-badge)](https://github.com/programmersd)
+[![GitHub](https://img.shields.io/badge/GitHub-pro--grammer--SD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmersd21)
+[![PyPI](https://img.shields.io/badge/PyPI-Author-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/programmersd21/)
+[![Profile Views](https://komarev.com/ghpvc/?username=programmersd21&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/programmersd21)
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Contributor-orange?style=for-the-badge)](https://github.com/programmersd21)
 
 <br/>
 
@@ -139,15 +139,15 @@ When I'm away from the keyboard, you'll usually find me following **cricket** �
 
 ### ⚡ EfficientManim — *A Node-Based Visual Editor for Manim*
 
-[![IdeaCred](https://ideacred.com/api/badge/programmersd/EfficientManim?style=for-the-badge)](https://ideacred.com/profile/programmersd)
+[![IdeaCred](https://ideacred.com/api/badge/programmersd21/EfficientManim?style=for-the-badge)](https://ideacred.com/profile/programmersd21)
 
-[![GitHub](https://img.shields.io/badge/GitHub-pro--grammer--SD%2FEfficientManim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmersd/EfficientManim)
+[![GitHub](https://img.shields.io/badge/GitHub-pro--grammer--SD%2FEfficientManim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmersd21/EfficientManim)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Manim](https://img.shields.io/badge/Manim-4A4A8A?style=for-the-badge&logo=python&logoColor=white)
-[![License](https://img.shields.io/github/license/programmersd/EfficientManim?style=for-the-badge)](https://github.com/programmersd/EfficientManim/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/programmersd/EfficientManim?style=for-the-badge&color=f1c40f)](https://github.com/programmersd/EfficientManim/stargazers)
+[![License](https://img.shields.io/github/license/programmersd21/EfficientManim?style=for-the-badge)](https://github.com/programmersd21/EfficientManim/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/programmersd21/EfficientManim?style=for-the-badge&color=f1c40f)](https://github.com/programmersd21/EfficientManim/stargazers)
 
 > A visual IDE that makes building Manim animations feel more like composing a scene and less like debugging a render loop.
 
@@ -171,7 +171,7 @@ Built with **Qt (PySide6)**, the interface is designed to feel like a proper des
 
 > *EfficientManim makes Manim more approachable for visual thinkers, without taking away the coding control that makes it powerful.*
 
-🔗 **[View on GitHub →](https://github.com/programmersd/EfficientManim)**
+🔗 **[View on GitHub →](https://github.com/programmersd21/EfficientManim)**
 
 <br/>
 
@@ -226,21 +226,21 @@ The binding is built with [PyO3](https://pyo3.rs/) and distributed as binary whe
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=programmersd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=495" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=programmersd21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=495" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=programmersd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=340" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=programmersd21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=340" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=programmersd&theme=tokyonight&hide_border=true&card_width=495" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=programmersd21&theme=tokyonight&hide_border=true&card_width=495" height="180"/>
 &nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=programmersd&bg_color=1a1b27&color=a78bfa&line=6366f1&point=c084fc&area=true&hide_border=true" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=programmersd21&bg_color=1a1b27&color=a78bfa&line=6366f1&point=c084fc&area=true&hide_border=true" height="180"/>
 
 <br/><br/>
 
 <!-- Snake Contribution Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/programmersd/programmersd/output/ocean.gif" alt="GitHub Contribution Snake" width="100%">
+  <img src="https://raw.githubusercontent.com/programmersd21/programmersd21/output/ocean.gif" alt="GitHub Contribution Snake" width="100%">
 </p>
 
 </div>
@@ -257,7 +257,7 @@ The binding is built with [PyO3](https://pyo3.rs/) and distributed as binary whe
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=programmersd&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/programmersd)
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=programmersd21&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/programmersd21)
 
 </div>
 
@@ -332,8 +332,8 @@ The binding is built with [PyO3](https://pyo3.rs/) and distributed as binary whe
 
 | Platform | Link |
 |---|---|
-| 🐙 **GitHub** | [@programmersd](https://github.com/programmersd) |
-| 📦 **PyPI** | [pypi.org/user/programmersd](https://pypi.org/user/programmersd/) |
+| 🐙 **GitHub** | [@programmersd21](https://github.com/programmersd21) |
+| 📦 **PyPI** | [pypi.org/user/programmersd21](https://pypi.org/user/programmersd21/) |
 | 🦀 **pyratatui org** | [github.com/pyratatui](https://github.com/pyratatui) |
 
 </div>
@@ -385,7 +385,7 @@ class Soumalya:
 
 *Built with* 🐍 *Python,* 🦀 *Rust, and a genuine fondness for the terminal.*
 
-[![Followers](https://img.shields.io/github/followers/programmersd?label=👥+Followers&style=for-the-badge&logo=github&color=ff69b4&labelColor=6a0dad)](https://github.com/programmersd)
-[![Stars](https://img.shields.io/github/stars/programmersd?label=⭐+Stars&style=for-the-badge&logo=github&color=ffd700&labelColor=ff8c00)](https://github.com/programmersd)
+[![Followers](https://img.shields.io/github/followers/programmersd21?label=👥+Followers&style=for-the-badge&logo=github&color=ff69b4&labelColor=6a0dad)](https://github.com/programmersd21)
+[![Stars](https://img.shields.io/github/stars/programmersd21?label=⭐+Stars&style=for-the-badge&logo=github&color=ffd700&labelColor=ff8c00)](https://github.com/programmersd21)
 
 </div>
