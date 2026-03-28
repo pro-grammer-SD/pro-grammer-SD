@@ -47,6 +47,11 @@
 ## 🧬 About Me
 
 > *"Write code that machines execute flawlessly and humans can read just as easily."*
+>
+
+**🌿 @programmersd21**
+
+✨ GitHub profile: https://github.com/programmersd21
 
 Hi, I'm **Soumalya** — a developer with a genuine interest in **Python** and **Rust**, a strong preference for **terminal-first workflows**, and a focus on building open-source tools that are both useful and well-crafted. I care about the details: clean APIs, clear documentation, and code that holds up as a project grows.
 
