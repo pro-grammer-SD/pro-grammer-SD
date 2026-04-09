@@ -1,25 +1,17 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         HERO / IDENTITY BLOCK                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soumalya&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Open-Source%20Developer%20%7C%20Python%20&amp;%20Rust%20%7C%20Terminal%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
 <br/>
 
-<!-- Typing SVG Tagline -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=🐍+Python+Developer+%7C+🦀+Rust+Learner;🎬+Visual+Manim+Editor+%7C+🖥️+TUI+Developer;📦+Open-Source+Author+%7C+🔧+Performance+Enthusiast;🌌+Building+tools+that+developers+actually+enjoy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+Developer+%7C+Rust+Learner;ASCII+%26+TUI+Tooling+Author;Open-Source+%7C+Terminal-First+Workflow;Building+tools+developers+actually+want)](https://git.io/typing-svg)
 
 <br/>
 
 [![IdeaCred](https://ideacred.com/api/badge/programmersd21?style=for-the-badge)](https://ideacred.com/profile/programmersd21)
-
-<!-- Social + Profile Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-pro--grammer--SD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmersd21)
+[![GitHub](https://img.shields.io/badge/GitHub-programmersd21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmersd21)
 [![PyPI](https://img.shields.io/badge/PyPI-Author-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/programmersd21/)
 [![Profile Views](https://komarev.com/ghpvc/?username=programmersd21&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/programmersd21)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Contributor-orange?style=for-the-badge)](https://github.com/programmersd21)
 
 <br/>
 
@@ -27,74 +19,57 @@
 
 ![Name Banner](banner.gif)
 
-<div align="center"><i>made with bangen, a tui-based animated banner generation tool: https://github.com/programmersd21/bangen</i></div>
- 
+<div align="center"><i>made with <a href="https://github.com/programmersd21/bangen">bangen</a> — TUI-based animated ASCII banner renderer</i></div>
+
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT / BIO                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## About Me
 
-## 🧬 About Me
+Hi, I'm **Soumalya** — a developer based in India focused on **Python** and **Rust**, with a strong preference for terminal-first workflows. I build open-source tools with a bias toward clean APIs, real documentation, and codebases that don't quietly rot.
 
-> *"Write code that machines execute flawlessly and humans can read just as easily."*
->
+My projects tend to land in one of two spaces: developer tooling that makes a workflow noticeably better, or TUI/rendering work where the terminal is treated as a proper UI surface rather than a fallback. The common thread is trying to close the gap between what a tool *can* do and how comfortably someone can actually use it.
 
-**🌿 @programmersd21**
+Away from the keyboard: cricket, specifically anything involving **Mitchell Starc** 🏏.
 
-✨ GitHub profile: https://github.com/programmersd21
+**How I work:**
 
-Hi, I'm **Soumalya** — a developer with a genuine interest in **Python** and **Rust**, a strong preference for **terminal-first workflows**, and a focus on building open-source tools that are both useful and well-crafted. I care about the details: clean APIs, clear documentation, and code that holds up as a project grows.
-
-My two main projects sit in fairly different spaces. **EfficientManim** is a node-based visual editor for [Manim](https://www.manim.community/) — it brings a more interactive, IDE-like workflow to mathematical animation without giving up the Python coding layer underneath. **pyratatui** is a Python binding for [Ratatui](https://ratatui.rs/), bringing Rust's high-performance TUI engine to Python developers through a fully Pythonic API. Both came from the same motivation: closing the gap between what a tool can do and how comfortably a developer can actually use it.
-
-When I'm away from the keyboard, you'll usually find me following **cricket** — particularly anything involving **Mitchell Starc** 🏏.
-
-<br/>
-
-**How I like to approach development:**
-
-- 🔩 **Performance where it matters** — reaching for Rust when Python's speed becomes a genuine bottleneck
-- 🧩 **Small, composable libraries** — focused tools that do one thing well and integrate cleanly with others
-- 📺 **Terminal-first thinking** — TUIs as first-class interfaces, not afterthoughts
-- 🌐 **Open-source done properly** — real documentation, semantic versioning, and maintained codebases
-- 🔬 **Clarity over cleverness** — code that the next contributor can understand and build on
+- **Performance where it matters** — Rust when Python's speed is a genuine bottleneck, not a theoretical one
+- **Small, composable libraries** — tools that do one thing well and integrate cleanly
+- **Terminal-first** — TUIs as first-class interfaces
+- **Open-source done properly** — semantic versioning, maintained docs, real changelogs
+- **Clarity over cleverness** — code the next contributor can actually read
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK / SKILLS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## Technical Stack
 
-## 🛠️ Technical Stack & Skills
-
-### 🔤 Languages
+### Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-### 📦 Frameworks & Libraries
+### Frameworks & Libraries
 
 <p align="left">
   <img src="https://img.shields.io/badge/Manim-4A4A8A?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Ratatui-CE422B?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/PyO3-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Maturin-092f30?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### ⚙️ Tools, Platforms & DevOps
+### Tools & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -103,73 +78,97 @@ When I'm away from the keyboard, you'll usually find me following **cricket** �
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 🖥️ Operating Systems
-- ✨ Windows 11
-- 💪 Android (DerpFest GSI)
-- 🚀 CachyOS + ML4W
-
-### 🧠 Areas of Focus
+### Areas of Focus
 
 | Domain | Proficiency | Notes |
 |---|---|---|
-| 🐍 Python Development | ██████████ Strong | Advanced patterns, async, FFI, packaging |
-| 🦀 Rust Development | ████████░░ Growing | Safe systems code, FFI with PyO3, TUI widgets |
-| 🖥️ Terminal UI (TUI) | ██████████ Strong | Ratatui, crossterm, layout & widget systems |
-| 🎬 Visual Tooling & Editors | ████████░░ Solid | Node graphs, live preview, Streamlit-based IDEs |
-| 📦 Library Authorship | ████████░░ Solid | PyPI packaging, semver, public API design |
-| 🤖 AI-Assisted Development | ███████░░░ Comfortable | LLM code generation integration, prompt design |
-| 🔁 CI/CD & Automation | ███████░░░ Comfortable | GitHub Actions, release pipelines |
+| 🐍 Python | ██████████ | Advanced patterns, async, FFI, packaging |
+| 🦀 Rust | ████████░░ | Safe systems code, PyO3 FFI, TUI widgets |
+| 🖥️ TUI Development | ██████████ | Ratatui, crossterm, layout & widget systems |
+| 🎨 Rendering & Effects | ████████░░ | ASCII art, Pillow pipelines, animation export |
+| 🎬 Visual Tooling | ████████░░ | Node graphs, live preview, animation editors |
+| 📦 Library Authorship | ████████░░ | PyPI packaging, semver, public API design |
+| 🔁 CI/CD | ███████░░░ | GitHub Actions, multi-platform release pipelines |
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                      FLAGSHIP PROJECTS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🚀 Flagship Open-Source Projects
+## Flagship Projects
 
 <br/>
 
-<!-- ───────────────────────────── PROJECT CARD 1 ───────────────────────────── -->
+---
 
-### ⚡ EfficientManim — *A Node-Based Visual Editor for Manim*
+### 🎨 Bangen — *ASCII Banner Renderer with a Full Effect Pipeline*
+
+[![GitHub](https://img.shields.io/badge/GitHub-programmersd21%2Fbangen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmersd21/bangen)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![License](https://img.shields.io/github/license/programmersd21/bangen?style=for-the-badge)](https://github.com/programmersd21/bangen/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/programmersd21/bangen?style=for-the-badge&color=f1c40f)](https://github.com/programmersd21/bangen/stargazers)
+
+> Fast TUI banner editor with a composable 30+ effect library, JSON presets, and transparent PNG/GIF export.
+
+**Bangen** is an ASCII banner renderer built on `pyfiglet`, `rich`, and `Pillow`. It ships with a live split-screen TUI for interactive editing, a Typer-powered CLI for scripted workflows, and an export pipeline that handles static PNG, animated GIF (with transparency), and plain TXT — all from the same tool.
+
+Effects are composable and order-sensitive, grouped into five categories: **motion** (`wave`, `bounce`, `drift`, `scroll`), **visual** (`glow`, `pulse`, `rainbow_cycle`, `scanline`), **temporal** (`typewriter`, `fade_in`, `wipe`, `stagger`), **distortion** (`glitch`, `chromatic_aberration`, `melt`, `fragment`), and **signature** (`matrix_rain`, `fire`, `electric`, `neon_sign`, `particle_disintegration`). Stack them freely — `glitch + chromatic_aberration + pulse` for cyberpunk, `glow + neon_sign` for neon, `matrix_rain + typewriter` for the obvious.
+
+```bash
+# Styled render with effect stack
+bangen "SYSTEM READY" --font slant --gradient "#7c3aed:#06b6d4" --effect glow --effect wave
+
+# Export animated GIF
+bangen "HELLO" --effect wave --effect glow --export-gif banner.gif --gif-duration 3 --gif-fps 20
+
+# AI-prompted style
+bangen "HELLO" --ai "retro CRT hacker title"
+
+# Full-terminal screensaver
+bangen "SIGNAL" --screensaver --screensaver-seed 42
+```
+
+| Feature | Detail |
+|---|---|
+| **Live TUI** | Split-screen editor with windowed effect selector, preset loader, and export modal |
+| **Effect pipeline** | 30+ effects across 5 tiers; composable, order-sensitive, stackable |
+| **Export** | Transparent PNG, animated transparent GIF, plain TXT — with live progress (%, elapsed, ETA) |
+| **Presets** | Built-in presets + user presets at `~/.bangen/presets/`; save/load from TUI or CLI |
+| **AI prompts** | `--ai "description"` generates a matching style without manual flag-setting |
+| **Screensaver mode** | Auto-fits to terminal size, randomises effects and scene timing, runs indefinitely |
+| **Multi-stop gradients** | Colon-separated hex stops with horizontal or vertical interpolation |
+| **Standalone builds** | GitHub Actions releases for Windows, macOS, and Linux — no Python environment needed |
+
+🔗 **[View on GitHub →](https://github.com/programmersd21/bangen)**
+
+<br/>
+
+---
+
+### ⚡ EfficientManim — *Node-Based Visual Editor for Manim*
 
 [![IdeaCred](https://ideacred.com/api/badge/programmersd21/EfficientManim?style=for-the-badge)](https://ideacred.com/profile/programmersd21)
-
-[![GitHub](https://img.shields.io/badge/GitHub-pro--grammer--SD%2FEfficientManim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmersd21/EfficientManim)
+[![GitHub](https://img.shields.io/badge/GitHub-programmersd21%2FEfficientManim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmersd21/EfficientManim)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Manim](https://img.shields.io/badge/Manim-4A4A8A?style=for-the-badge&logo=python&logoColor=white)
 [![License](https://img.shields.io/github/license/programmersd21/EfficientManim?style=for-the-badge)](https://github.com/programmersd21/EfficientManim/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/programmersd21/EfficientManim?style=for-the-badge&color=f1c40f)](https://github.com/programmersd21/EfficientManim/stargazers)
 
-> A visual IDE that makes building Manim animations feel more like composing a scene and less like debugging a render loop.
+> A visual IDE for Manim that keeps the full Python animation model intact while making scene composition faster and more immediate.
 
-**EfficientManim** is a node-based visual editor for creating mathematical animations with [Manim](https://www.manim.community/). Instead of editing scripts and re-running the renderer to check results, you build animations by connecting nodes in a visual graph — linking scenes, objects, and transformations while watching things update in real time. The full Python animation model stays intact underneath; the editor just gives you a more immediate way to work with it.
+**EfficientManim** is a node-based editor for [Manim](https://www.manim.community/) built with PySide6. Instead of editing a script, re-running the renderer, and waiting to see what broke, you build animations by connecting nodes in a visual graph — scenes, objects, and transformations wired together with live preview updating as you go. The Python layer underneath is unchanged; the editor just gives you a faster feedback loop on top of it.
 
-Built with **Qt (PySide6)**, the interface is designed to feel like a proper desktop IDE while keeping the setup lightweight and developer-friendly..
-
-**Key Features:**
-
-| Feature | Description |
+| Feature | Detail |
 |---|---|
-| 🖱️ **Drag-and-drop node editor** | Build animation graphs visually — connect scenes, objects, and transformations without boilerplate |
-| 🎬 **Multiple scene management** | Organise, navigate, and switch between independent scenes within a single project |
-| 👁️ **Live preview** | See animations update as you build, tightening the loop between editing and reviewing |
-| 🤖 **AI-assisted code generation** | Generate Manim scene code from natural language descriptions to accelerate prototyping |
-| 🐙 **GitHub snippet loading** | Pull Manim code snippets directly from GitHub repositories into your active project |
-| 🎙️ **Voiceover integration** | Attach narration to animation sequences using built-in voiceover support |
-| 🗂️ **VGroup utility** | Group and manage related objects as a single unit, keeping complex scenes organised |
-| 📦 **Portable project format** | Save and share projects as self-contained files that preserve the full node graph |
-| 🎞️ **Professional video rendering** | Export finished animations as high-quality video files ready for publication |
-
-> *EfficientManim makes Manim more approachable for visual thinkers, without taking away the coding control that makes it powerful.*
+| **Node editor** | Drag-and-drop graph — connect scenes, objects, and transformations without boilerplate |
+| **Live preview** | Animations update as the graph changes |
+| **Multi-scene management** | Navigate and switch between independent scenes in a single project |
+| **AI code generation** | Generate Manim scene code from natural language descriptions |
+| **GitHub snippet loading** | Pull Manim snippets directly from GitHub into the active project |
+| **Voiceover integration** | Attach narration to animation sequences |
+| **Portable project format** | Save/share projects as self-contained files preserving the full node graph |
+| **Professional export** | Render finished animations as publication-ready video |
 
 🔗 **[View on GitHub →](https://github.com/programmersd21/EfficientManim)**
 
@@ -177,40 +176,29 @@ Built with **Qt (PySide6)**, the interface is designed to feel like a proper des
 
 ---
 
-<!-- ───────────────────────────── PROJECT CARD 2 ───────────────────────────── -->
-
 ### 🖥️ pyratatui — *Ratatui's TUI Engine, Accessible from Python*
 
 [![IdeaCred](https://ideacred.com/api/badge/pyratatui/pyratatui?style=for-the-badge)](https://ideacred.com/profile/pyratatui)
-
 [![GitHub](https://img.shields.io/badge/GitHub-pyratatui%2Fpyratatui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pyratatui/pyratatui)
 [![PyPI](https://img.shields.io/pypi/v/pyratatui?style=for-the-badge&logo=pypi&color=3775A9)](https://pypi.org/project/pyratatui/)
 ![Downloads](https://img.shields.io/pypi/dm/pyratatui?style=for-the-badge&logo=python&label=downloads)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 [![License](https://img.shields.io/github/license/pyratatui/pyratatui?style=for-the-badge)](https://github.com/pyratatui/pyratatui/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/pyratatui/pyratatui?style=for-the-badge&color=f1c40f)](https://github.com/pyratatui/pyratatui/stargazers)
 
 > Rust-quality terminal UIs, authored entirely in Python.
 
-**pyratatui** is a Python binding for [Ratatui](https://ratatui.rs/) — a well-regarded Rust library for building terminal user interfaces. It gives Python developers access to Ratatui's rendering engine through a fully Pythonic API, so you get the performance and widget quality of the Rust TUI ecosystem without needing to write any Rust yourself.
+**pyratatui** is a PyO3-backed Python binding for [Ratatui](https://ratatui.rs/). It exposes Ratatui's rendering engine through a fully Pythonic API — widgets, layouts, and styles as Python classes and context managers — so you get the performance and frame accuracy of the Rust TUI ecosystem without writing any Rust yourself. Distributed as binary wheels via Maturin; no Rust toolchain required.
 
-The binding is built with [PyO3](https://pyo3.rs/) and distributed as binary wheels via [Maturin](https://www.maturin.rs/), making installation straightforward and keeping the Python–Rust boundary overhead minimal. If your project already uses `asyncio`, pyratatui supports async terminal handling so it slots naturally into event-driven architectures.
-
-**Key Features:**
-
-| Feature | Description |
+| Feature | Detail |
 |---|---|
-| 🦀 **Native Rust rendering** | Terminal drawing handled entirely by Ratatui — consistent, fast, and frame-accurate |
-| 🐍 **Fully Pythonic API** | Widgets, layouts, and styles exposed through Python classes and context managers |
-| 🎨 **Complete widget library** | Paragraphs, Tables, Lists, Gauges, Charts, Sparklines, and composable custom widgets |
-| 📐 **Flexible layout system** | Constraint-based layouts with directional splits, percentages, and fixed sizes |
-| 🖌️ **Rich style system** | Foreground/background colour, bold, italic, underline, 256-colour and truecolor support |
-| ⌨️ **Key event handling** | Structured keyboard and mouse event API with full modifier key support |
-| ⚡ **Async-ready** | Optional async terminal handling for projects built on `asyncio` or similar runtimes |
-| 🔧 **Maturin distribution** | Binary wheels for Linux, macOS, and Windows — no Rust toolchain needed by the user |
-
-> *pyratatui bridges Rust's terminal rendering performance with Python ergonomics — so you can build serious terminal applications with minimal Rust exposure.*
+| **Native Rust rendering** | Terminal drawing handled entirely by Ratatui — consistent and frame-accurate |
+| **Pythonic API** | Widgets, layouts, styles as Python classes; no Rust knowledge needed |
+| **Full widget library** | Paragraphs, Tables, Lists, Gauges, Charts, Sparklines, composable custom widgets |
+| **Constraint-based layouts** | Directional splits, percentages, and fixed sizes |
+| **Rich style system** | fg/bg colour, bold, italic, underline, 256-colour and truecolor |
+| **Async-ready** | Optional async terminal handling for `asyncio`-based architectures |
+| **Maturin wheels** | Binary wheels for Linux, macOS, and Windows |
 
 🔗 **[View on GitHub →](https://github.com/pyratatui/pyratatui)** &nbsp;|&nbsp; **[View on PyPI →](https://pypi.org/project/pyratatui/)**
 
@@ -218,11 +206,7 @@ The binding is built with [PyO3](https://pyo3.rs/) and distributed as binary whe
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS & ACTIVITY                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -238,7 +222,6 @@ The binding is built with [PyO3](https://pyo3.rs/) and distributed as binary whe
 
 <br/><br/>
 
-<!-- Snake Contribution Graph -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/programmersd21/programmersd21/output/ocean.gif" alt="GitHub Contribution Snake" width="100%">
 </p>
@@ -249,11 +232,7 @@ The binding is built with [PyO3](https://pyo3.rs/) and distributed as binary whe
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     ACHIEVEMENTS & HIGHLIGHTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 Achievements & Milestones
+## Milestones
 
 <div align="center">
 
@@ -263,99 +242,37 @@ The binding is built with [PyO3](https://pyo3.rs/) and distributed as binary whe
 
 <br/>
 
-| 🎖️ Milestone | 📋 Detail |
+| Milestone | Detail |
 |---|---|
-| 🚀 **Open-Source Author** | Lead developer and maintainer of `EfficientManim` and `pyratatui` |
-| 🎬 **Visual Animation Editor** | Built a node-based Manim IDE with live preview, AI generation, and professional video export |
-| 🦀 **Python–Rust Binding** | Shipped PyO3-backed Python bindings for Ratatui's terminal rendering engine |
-| 📦 **PyPI Publisher** | Packages publicly available with multi-platform binary wheel distribution |
-| 🤖 **CI/CD Pipelines** | Fully automated test, build, and release workflows via GitHub Actions |
-| 🖥️ **TUI in Python** | Made Ratatui's layout system, widgets, and style API accessible to Python developers |
-| 🌐 **Community Presence** | Active repositories with open issues, maintained documentation, and contributions welcome |
+| 🎨 **ASCII Tooling** | Built a TUI banner renderer with a 30+ effect pipeline, preset system, and transparent GIF export |
+| 🎬 **Visual Animation Editor** | Node-based Manim IDE with live preview, AI generation, and professional video export |
+| 🦀 **Python–Rust Binding** | PyO3-backed Python bindings for Ratatui's terminal rendering engine |
+| 📦 **PyPI Publisher** | Multi-platform binary wheel distribution via Maturin |
+| 🤖 **CI/CD Pipelines** | Automated test, build, and release workflows via GitHub Actions |
+| 🌐 **Open-Source Maintenance** | Active repos with open issues, real docs, and ongoing development |
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        PHILOSOPHY / APPROACH                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## Currently Exploring
 
-## 🧠 Development Philosophy
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                      A FEW THINGS I TRY TO KEEP IN MIND                     │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  01. Make it correct.   02. Make it clear.   03. Make it fast.             │
-│      In that order. Every time.                                             │
-│                                                                             │
-│  04. If Python isn't fast enough, write Rust and call it from Python.      │
-│                                                                             │
-│  05. A TUI is not a downgrade — it's a considered choice.                  │
-│                                                                             │
-│  06. A public API is a promise. Don't make promises you won't keep.        │
-│                                                                             │
-│  07. Open-source deserves the same care as production software.             │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+- **Deeper Rust** — async patterns, lifetimes, tighter PyO3 boundary design
+- **Cranelift JIT** — ahead-of-time and JIT compilation for a custom language project
+- **Terminal protocols** — Kitty graphics protocol, sixel, true-colour consistency across emulators
+- **Property-based testing** — Hypothesis for Python, proptest for Rust
+- **LLM integration in tooling** — making AI-assisted code generation actually useful, not surface-level
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                      CURRENTLY EXPLORING                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🔭 Currently Learning & Exploring
-
-- 🦀 **Deeper Rust** — async patterns, lifetimes, and tighter PyO3 boundary design
-- 🎬 **Animation tooling** — node graph architectures, scene serialisation, and editor UX patterns
-- 🖥️ **Terminal protocols** — Kitty graphics protocol, sixel support, and true-colour consistency across emulators
-- 🧪 **Property-based testing** — Hypothesis for Python, proptest for Rust
-- 🤖 **LLM integration in tooling** — making AI-assisted code generation genuinely useful rather than surface-level
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           CONTACT                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📬 Connect & Collaborate
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 🐙 **GitHub** | [@programmersd21](https://github.com/programmersd21) |
-| 📦 **PyPI** | [pypi.org/user/programmersd21](https://pypi.org/user/programmersd21/) |
-| 🦀 **pyratatui org** | [github.com/pyratatui](https://github.com/pyratatui) |
-
-</div>
-
-<br/>
-
-> 💬 Happy to collaborate on Rust–Python tooling, TUI projects, visual editors, or anything performance-related. The best way to reach me is through an issue or discussion on one of the repositories above — I try to stay on top of them.
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         FUN / PERSONAL TOUCH                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🎙️ Beyond the Terminal
+## Beyond the Terminal
 
 ```python
 class Soumalya:
     location     = "India 🇮🇳"
-    os_of_choice = ["DerpFest AOSP", "CachyOS"]
+    os_of_choice = ["DerpFest AOSP", "Arch Linux (Hyprland)"]
     editor       = "Neovim (yes, really)"
     shell        = "zsh + dotfiles that took too long to configure"
     terminal     = "kitty / ghostty"
@@ -373,9 +290,25 @@ class Soumalya:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          FOOTER                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## Connect
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 🐙 **GitHub** | [@programmersd21](https://github.com/programmersd21) |
+| 📦 **PyPI** | [pypi.org/user/programmersd21](https://pypi.org/user/programmersd21/) |
+| 🦀 **pyratatui org** | [github.com/pyratatui](https://github.com/pyratatui) |
+
+</div>
+
+<br/>
+
+> Best way to reach me: open an issue or discussion on one of the repos above. Happy to collaborate on Rust–Python tooling, TUI projects, visual editors, or anything performance-adjacent.
+
+<br/>
+
+---
 
 <div align="center">
 
@@ -383,9 +316,9 @@ class Soumalya:
 
 <br/>
 
-*Built with* 🐍 *Python,* 🦀 *Rust, and a genuine fondness for the terminal.*
+*Built with 🐍 Python, 🦀 Rust, and a genuine fondness for the terminal.*
 
-[![Followers](https://img.shields.io/github/followers/programmersd21?label=👥+Followers&style=for-the-badge&logo=github&color=ff69b4&labelColor=6a0dad)](https://github.com/programmersd21)
-[![Stars](https://img.shields.io/github/stars/programmersd21?label=⭐+Stars&style=for-the-badge&logo=github&color=ffd700&labelColor=ff8c00)](https://github.com/programmersd21)
+[![Followers](https://img.shields.io/github/followers/programmersd21?label=Followers&style=for-the-badge&logo=github&color=ff69b4&labelColor=6a0dad)](https://github.com/programmersd21)
+[![Stars](https://img.shields.io/github/stars/programmersd21?label=Stars&style=for-the-badge&logo=github&color=ffd700&labelColor=ff8c00)](https://github.com/programmersd21)
 
 </div>
