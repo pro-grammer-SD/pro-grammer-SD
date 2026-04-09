@@ -27,6 +27,8 @@
 
 ![Name Banner](banner.gif)
 
+<div align="center"><i>made with bangen, a tui-based animated banner generation tool: https://github.com/programmersd21/bangen</i></div>
+ 
 </div>
 
 <br/>
