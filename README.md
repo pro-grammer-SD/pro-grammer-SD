@@ -20,12 +20,12 @@
 
 ### 🚀 projects
 
-| &nbsp; | project | what it does |
-|:---:|:---|:---|
-| 🎨 | **[bangen](https://github.com/programmersd21/bangen)** [![Stars](https://img.shields.io/github/stars/programmersd21/bangen?style=flat-square&color=a78bfa&labelColor=0b0f19&logo=github)](https://github.com/programmersd21/bangen/stargazers) | ascii banner renderer · 30+ composable effects · live TUI · animated GIF export |
-| ⚡ | **[pyratatui](https://github.com/pyratatui/pyratatui)** [![Stars](https://img.shields.io/github/stars/pyratatui/pyratatui?style=flat-square&color=ce422b&labelColor=0b0f19&logo=github)](https://github.com/pyratatui/pyratatui/stargazers) | ratatui from python · pyo3 bindings · native render speed · wheel-distributed |
-| 📝 | **[kairo](https://github.com/programmersd21/kairo)** [![Stars](https://img.shields.io/github/stars/programmersd21/kairo?style=flat-square&color=00ADD8&labelColor=0b0f19&logo=github)](https://github.com/programmersd21/kairo/stargazers) | terminal task manager · sqlite · git sync · lua plugins · keyboard-first |
-| 🎬 | **[efficientmanim](https://github.com/programmersd21/EfficientManim)** [![Stars](https://img.shields.io/github/stars/programmersd21/EfficientManim?style=flat-square&color=41CD52&labelColor=0b0f19&logo=github)](https://github.com/programmersd21/EfficientManim/stargazers) | node-based manim editor · visual pipeline · live preview · AI generation |
+| &nbsp; | project | what it does | ⭐ |
+|:---:|:---|:---|:---:|
+| 🎨 | **[bangen](https://github.com/programmersd21/bangen)** | ascii banner renderer · 30+ composable effects · live TUI · animated GIF export | [![Stars](https://img.shields.io/github/stars/programmersd21/bangen?style=for-the-badge&color=a78bfa&labelColor=0b0f19&logo=github)](https://github.com/programmersd21/bangen/stargazers) |
+| ⚡ | **[pyratatui](https://github.com/pyratatui/pyratatui)** | ratatui from python · pyo3 bindings · native render speed · wheel-distributed | [![Stars](https://img.shields.io/github/stars/pyratatui/pyratatui?style=for-the-badge&color=ce422b&labelColor=0b0f19&logo=github)](https://github.com/pyratatui/pyratatui/stargazers) |
+| 📝 | **[kairo](https://github.com/programmersd21/kairo)** | terminal task manager · sqlite · git sync · lua plugins · keyboard-first | [![Stars](https://img.shields.io/github/stars/programmersd21/kairo?style=for-the-badge&color=00ADD8&labelColor=0b0f19&logo=github)](https://github.com/programmersd21/kairo/stargazers) |
+| 🎬 | **[efficientmanim](https://github.com/programmersd21/EfficientManim)** | node-based manim editor · visual pipeline · live preview · AI generation | [![Stars](https://img.shields.io/github/stars/programmersd21/EfficientManim?style=for-the-badge&color=41CD52&labelColor=0b0f19&logo=github)](https://github.com/programmersd21/EfficientManim/stargazers) |
 
 <br>
 
