@@ -6,15 +6,32 @@
   <sub><i>made with <a href="https://github.com/programmersd21/bangen">bangen</a></i></sub>
 </p>
 
-<img align="right" width="200" src="assets/rpg-style-pc.png" />
+<p align="center">
+  <a href="https://github.com/programmersd21?tab=followers">
+    <img src="https://img.shields.io/github/followers/programmersd21?style=for-the-badge&color=a78bfa&labelColor=0b0f19&logo=github&label=followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=programmersd21&style=for-the-badge&color=ce422b&labelColor=0b0f19&label=profile+views" />
+  <a href="mailto:geniussantu1983@gmail.com">
+    <img src="https://img.shields.io/badge/email-open-41CD52?style=for-the-badge&logo=gmail&labelColor=0b0f19" />
+  </a>
+</p>
+
+<img align="right" width="120" src="assets/rpg-style-pc.png" />
 
 <p align="center">
   <i>terminal-first systems &nbsp;•&nbsp; composable tooling &nbsp;•&nbsp; performance-driven design</i>
 </p>
 
+---
+
 ### ⚙️ stack
 
-> 🐍 python &nbsp;·&nbsp; 🦀 rust &nbsp;·&nbsp; 🐹 go &nbsp;·&nbsp; 🖥️ terminal-first
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-ce422b?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-0b0f19?style=for-the-badge&logo=gnubash&logoColor=a78bfa" />
+</p>
 
 <br>
 
@@ -29,6 +46,19 @@
 
 <br>
 
+### 📊 stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=programmersd21&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0b0f19&title_color=a78bfa&icon_color=ce422b&text_color=ffffff&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmersd21&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0b0f19&title_color=a78bfa&text_color=ffffff&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=programmersd21&theme=midnight-purple&hide_border=true&background=0b0f19&ring=a78bfa&fire=ce422b&currStreakLabel=a78bfa" />
+</p>
+
+<br>
+
 ### 🧠 philosophy
 
 > `make it correct → make it clear → make it fast`
@@ -38,4 +68,4 @@
 ### 🤝 collaborate
 
 - **interested in:** rust ↔ python bridges &nbsp;·&nbsp; terminal UIs &nbsp;·&nbsp; plugin systems
-- 📬 open an issue on any repo or [send an email to me](mailto:geniussantu1983@gmail.com) — fastest way to reach me
+- 📬 open an issue on any repo or [send an email](mailto:geniussantu1983@gmail.com) — fastest way to reach me
