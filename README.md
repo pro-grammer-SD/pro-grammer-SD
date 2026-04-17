@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img align="right" width="120" src="assets/rpg-style-pc.png" />
+<img align="right" width="200" src="assets/rpg-style-pc.png" />
 
 <p align="center">
   <i>terminal-first systems &nbsp;•&nbsp; composable tooling &nbsp;•&nbsp; performance-driven design</i>
